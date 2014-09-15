@@ -1,0 +1,24 @@
+2014-09-15 12:45:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:45:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:45:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:45:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:50:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/e-leran/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:50:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/e-leran/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:50:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/e-leran/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-15 12:50:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /var/www/e-learn/e-leran/trunk/app/webroot/index.php(93): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
